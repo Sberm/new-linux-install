@@ -1,0 +1,13 @@
+[user]
+	email = howardchu95@gmail.com
+	name = Howard Chu
+[sendemail]
+	smtpServer = smtp.gmail.com
+	smtpServerPort = 587
+	smtpEncryption = tls
+	smtpUser = howardchu95@gmail.com
+	smtpPass = pmdf eplw fome sunx
+[core]
+	editor = nvim
+[credential]
+    	helper = store
