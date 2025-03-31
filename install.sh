@@ -52,3 +52,6 @@ make install
 
 # tmux plugin
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+
+# hmcl
+sudo cp hmcl.desktop /usr/share/applications
