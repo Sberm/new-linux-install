@@ -10,4 +10,4 @@
 [core]
 	editor = nvim
 [credential]
-    	helper = store
+    helper = store
